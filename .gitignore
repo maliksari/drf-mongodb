@@ -548,4 +548,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/python,django,pycharm,pycharm+iml,pycharm+all,visualstudiocode,windows,linux
+common/local_conf.py
+logs
